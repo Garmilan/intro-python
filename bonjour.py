@@ -1,1 +1,1 @@
-print("Bonjour Garmilan")
+print("Bonjour la HEG!")
